@@ -26,4 +26,18 @@ Duration
 Date Added
 
 Description of the show/movie
-View Dashboard: https://public.tableau.com/views/NetflixdataDashboard_17552620226070/Netflix?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+ Dataset
+
+Source: Netflix Titles dataset (CSV) from Kaggle
+
+Data Fields: Title, Type, Director, Cast, Country, Date Added, Release Year, Rating, Duration, Genre
+
+ Tools Used
+
+Tableau Desktop (Student License)
+
+Tableau Public for publishing and sharing the dashboard
+
+View Dashboard:
+https://public.tableau.com/views/NetflixdataDashboard_17552620226070/Netflix
