@@ -26,3 +26,4 @@ Duration
 Date Added
 
 Description of the show/movie
+View Dashboard: https://public.tableau.com/views/NetflixdataDashboard_17552620226070/Netflix?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
