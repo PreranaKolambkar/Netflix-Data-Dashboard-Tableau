@@ -1,5 +1,6 @@
 # Netflix-Data-Dashboard-Tableau
 Interactive Tableau dashboard analyzing Netflix content by genre, release year, country, and ratings.
+
 Dashboard Features
 
 Total Movies & TV Shows Added by Years – Area chart showing yearly additions to Netflix’s library.
